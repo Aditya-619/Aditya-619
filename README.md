@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Ranjan</h1>
-<img src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg" align="center" alt="code" width="400px">
+<img src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg" align="right" alt="code" width="400px">
 
 - 🌱 I’m currently learning **JavaScript**
 
