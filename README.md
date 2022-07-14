@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Ranjan</h1>
-<img align="right" alt="Code" width="400px" src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg">
-<p align="left"> <a href="https://twitter.com/aditya078_619" target="blank"><img src="https://img.shields.io/twitter/follow/aditya078_619?logo=twitter&style=for-the-badge" alt="aditya078_619" /></a> </p>
+<img center" alt="Code" width="400px" src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg">
 
 - 🌱 I’m currently learning **JavaScript**
 
