@@ -1,10 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Aditya Ranjan</h1>
-<img align="right" alt="Code" width="400px" src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg">
+<img src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg" align="center" alt="code" width="400px">
 
 - 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, C, C++**
+
+- 📫 How to reach me **ranjanaditya5678@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
